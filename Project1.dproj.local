@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/10 15:53:51.000.480,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/31 08:28:52.000.071,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/25 09:24:28.000.230,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/29 12:22:50.000.406,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/12 08:40:13.000.914,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/12 14:23:40.000.506,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/12 14:28:44.000.108,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\POC\Ini-Register\Verificar se a chave foi Criada\Unit1.dfm</Transaction>
+    <Transaction>2023/09/12 14:28:44.000.108,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\POC\Ini-Register\Verificar se a chave foi Criada\Unit1.pas</Transaction>
+    <Transaction>2023/09/12 14:29:17.000.263,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\POC\Ini-Register\Verificar se a chave foi Criada\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
